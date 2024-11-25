@@ -12,7 +12,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
 project = 'oss24'
 copyright = '2024, aisl'
-author = 'aisl'
+author = 'HongKiBum'
 release = '0.1'
 
 # -- General configuration ---------------------------------------------------
